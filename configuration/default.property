@@ -1,0 +1,11 @@
+# runType=selenoid
+runType=local
+browser=chrome
+browserVersion=78.0
+selenoidUrl=http://localhost:4444/wd/hub
+# baseUrl=https://www.sportmaster.ru
+# baseUrl=https://wowreality.info
+baseUrl=https://decoyduck.github.io/
+headless=false
+implicitlyWait=10
+pageLoadTimeout=10

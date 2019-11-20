@@ -1,0 +1,8 @@
+ad/bot/helpers/ParametersProvider.class
+ad/bot/helpers/EventHandler.class
+ad/bot/pages/MainPage.class
+ad/bot/helpers/DriverFactory.class
+ad/bot/tests/MainPageTests.class
+ad/bot/helpers/PageObjectUtils.class
+ad/bot/pages/MainPage$1.class
+ad/bot/tests/BaseTest.class
